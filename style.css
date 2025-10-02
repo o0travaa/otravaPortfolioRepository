@@ -10,10 +10,20 @@ body {
 }
 
 .info {
-    font-size: 32px;
+    font-size: 28px;
     list-style: none;
 }
 
 .CSharp {
-    font-size: 42px;
+    font-size: 38px;
+    display: inline-block;
+    align-items: center;
+    margin: 0 auto;
+    border-color: darkmagenta;
+    border: 2px solid;
+}
+
+.cs1 {
+    font-size: 24px;
+    border-color: blueviolet;
 }
