@@ -8,3 +8,12 @@ body {
 .title {
     font-size: 62px;
 }
+
+.info {
+    font-size: 32px;
+    list-style: none;
+}
+
+.CSharp {
+    font-size: 42px;
+}
