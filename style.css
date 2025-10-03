@@ -12,6 +12,14 @@ body {
 .info {
     font-size: 28px;
     list-style: none;
+    display: inline-block;
+    align-items: center;
+    margin: 0 auto;
+    border: 2px solid;
+}
+
+.olinfo {
+    list-style: none;
 }
 
 .CSharp {
@@ -19,7 +27,6 @@ body {
     display: inline-block;
     align-items: center;
     margin: 0 auto;
-    border-color: darkmagenta;
     border: 2px solid;
 }
 
